@@ -1,0 +1,2 @@
+# LICENSE
+Licença de uso
